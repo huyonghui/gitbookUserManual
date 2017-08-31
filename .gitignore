@@ -3,3 +3,4 @@ node_modules
 # ignore _book
 _book
 book.pdf
+*.log
